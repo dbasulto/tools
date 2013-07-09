@@ -1,10 +1,10 @@
-#tools
-=====
+#Tools
+
 
 Smalls tools I've developed. Nothing special anyway.
 
-## albañil 
------
+##Albañil 
+
 Simple Applescript to rotate the tabs on a browser each X seconds. Useful to display web-based statistics and dasbhboards into an external display powered by a Mac Mini. 
 
 **TODO
